@@ -1,7 +1,7 @@
 # PA 3 - IEEE Converter
 
 ## Due
-All files are due on Wed. Aug 31st, at 11:59pm.
+All files are due on Fri. Sep 2nd, at 11:59pm.
 
 See "Grading” and “Submission” sections for more details.
 
